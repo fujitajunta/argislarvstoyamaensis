@@ -4,6 +4,5 @@ Junta Fujita, David T. Drumm, Akira Iguchi, Osamu Tominaga, Yoshiaki Kai and Yoh
 
 This repository contains:
 
-Nexus and Mega files
-
+Nexus and Mega files,
 XML files used for *BEAST
